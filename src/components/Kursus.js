@@ -63,8 +63,9 @@ export default class Kursus extends Component {
                         <p className="harga">Rp. {harga}</p>
                         <strike className="harga2">Rp. {diskon}</strike>
                     </div>
-                    
-                </div>
+                   
+                    </div>
+                  
                    </ProductWrapper>
         )
     }
